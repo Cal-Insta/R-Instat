@@ -118,15 +118,36 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="ucrChkDrop.Location" type="System.Drawing.Point, System.Drawing">
+    <value>273, 269</value>
+  </data>
+  <data name="ucrChkDrop.Size" type="System.Drawing.Size, System.Drawing">
+    <value>156, 20</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="ucrChkDrop.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;ucrChkDrop.Name" xml:space="preserve">
+    <value>ucrChkDrop</value>
+  </data>
+  <data name="&gt;&gt;ucrChkDrop.Type" xml:space="preserve">
+    <value>instat.ucrCheck, instat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;ucrChkDrop.Parent" xml:space="preserve">
+    <value>tbpFacet</value>
+  </data>
+  <data name="&gt;&gt;ucrChkDrop.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
   <data name="ucrNudNumberofRows.Location" type="System.Drawing.Point, System.Drawing">
     <value>169, 252</value>
   </data>
   <data name="ucrNudNumberofRows.Size" type="System.Drawing.Size, System.Drawing">
     <value>46, 20</value>
   </data>
-  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="ucrNudNumberofRows.TabIndex" type="System.Int32, mscorlib">
-    <value>31</value>
+    <value>15</value>
   </data>
   <data name="&gt;&gt;ucrNudNumberofRows.Name" xml:space="preserve">
     <value>ucrNudNumberofRows</value>
@@ -138,7 +159,7 @@
     <value>tbpFacet</value>
   </data>
   <data name="&gt;&gt;ucrNudNumberofRows.ZOrder" xml:space="preserve">
-    <value>0</value>
+    <value>1</value>
   </data>
   <data name="ucrChkNoOfRowsOrColumns.Location" type="System.Drawing.Point, System.Drawing">
     <value>7, 254</value>
@@ -147,7 +168,7 @@
     <value>156, 20</value>
   </data>
   <data name="ucrChkNoOfRowsOrColumns.TabIndex" type="System.Int32, mscorlib">
-    <value>29</value>
+    <value>14</value>
   </data>
   <data name="&gt;&gt;ucrChkNoOfRowsOrColumns.Name" xml:space="preserve">
     <value>ucrChkNoOfRowsOrColumns</value>
@@ -159,7 +180,7 @@
     <value>tbpFacet</value>
   </data>
   <data name="&gt;&gt;ucrChkNoOfRowsOrColumns.ZOrder" xml:space="preserve">
-    <value>1</value>
+    <value>2</value>
   </data>
   <data name="ucrChkIncludeFacets.Location" type="System.Drawing.Point, System.Drawing">
     <value>8, 13</value>
@@ -168,7 +189,7 @@
     <value>121, 20</value>
   </data>
   <data name="ucrChkIncludeFacets.TabIndex" type="System.Int32, mscorlib">
-    <value>28</value>
+    <value>0</value>
   </data>
   <data name="&gt;&gt;ucrChkIncludeFacets.Name" xml:space="preserve">
     <value>ucrChkIncludeFacets</value>
@@ -180,16 +201,16 @@
     <value>tbpFacet</value>
   </data>
   <data name="&gt;&gt;ucrChkIncludeFacets.ZOrder" xml:space="preserve">
-    <value>2</value>
+    <value>3</value>
   </data>
   <data name="ucrChkLabeler.Location" type="System.Drawing.Point, System.Drawing">
-    <value>273, 278</value>
+    <value>273, 245</value>
   </data>
   <data name="ucrChkLabeler.Size" type="System.Drawing.Size, System.Drawing">
     <value>220, 20</value>
   </data>
   <data name="ucrChkLabeler.TabIndex" type="System.Int32, mscorlib">
-    <value>27</value>
+    <value>10</value>
   </data>
   <data name="&gt;&gt;ucrChkLabeler.Name" xml:space="preserve">
     <value>ucrChkLabeler</value>
@@ -201,16 +222,16 @@
     <value>tbpFacet</value>
   </data>
   <data name="&gt;&gt;ucrChkLabeler.ZOrder" xml:space="preserve">
-    <value>3</value>
+    <value>4</value>
   </data>
   <data name="ucrChkFreeSpace.Location" type="System.Drawing.Point, System.Drawing">
-    <value>273, 252</value>
+    <value>273, 221</value>
   </data>
   <data name="ucrChkFreeSpace.Size" type="System.Drawing.Size, System.Drawing">
     <value>100, 20</value>
   </data>
   <data name="ucrChkFreeSpace.TabIndex" type="System.Int32, mscorlib">
-    <value>27</value>
+    <value>9</value>
   </data>
   <data name="&gt;&gt;ucrChkFreeSpace.Name" xml:space="preserve">
     <value>ucrChkFreeSpace</value>
@@ -222,16 +243,16 @@
     <value>tbpFacet</value>
   </data>
   <data name="&gt;&gt;ucrChkFreeSpace.ZOrder" xml:space="preserve">
-    <value>4</value>
+    <value>5</value>
   </data>
   <data name="ucrChkFreeScalesY.Location" type="System.Drawing.Point, System.Drawing">
-    <value>273, 229</value>
+    <value>273, 197</value>
   </data>
   <data name="ucrChkFreeScalesY.Size" type="System.Drawing.Size, System.Drawing">
     <value>100, 20</value>
   </data>
   <data name="ucrChkFreeScalesY.TabIndex" type="System.Int32, mscorlib">
-    <value>26</value>
+    <value>8</value>
   </data>
   <data name="&gt;&gt;ucrChkFreeScalesY.Name" xml:space="preserve">
     <value>ucrChkFreeScalesY</value>
@@ -243,16 +264,16 @@
     <value>tbpFacet</value>
   </data>
   <data name="&gt;&gt;ucrChkFreeScalesY.ZOrder" xml:space="preserve">
-    <value>5</value>
+    <value>6</value>
   </data>
   <data name="ucrChkFreeScalesX.Location" type="System.Drawing.Point, System.Drawing">
-    <value>273, 206</value>
+    <value>273, 173</value>
   </data>
   <data name="ucrChkFreeScalesX.Size" type="System.Drawing.Size, System.Drawing">
     <value>100, 20</value>
   </data>
   <data name="ucrChkFreeScalesX.TabIndex" type="System.Int32, mscorlib">
-    <value>25</value>
+    <value>7</value>
   </data>
   <data name="&gt;&gt;ucrChkFreeScalesX.Name" xml:space="preserve">
     <value>ucrChkFreeScalesX</value>
@@ -264,16 +285,16 @@
     <value>tbpFacet</value>
   </data>
   <data name="&gt;&gt;ucrChkFreeScalesX.ZOrder" xml:space="preserve">
-    <value>6</value>
+    <value>7</value>
   </data>
   <data name="ucrChkMargin.Location" type="System.Drawing.Point, System.Drawing">
-    <value>273, 183</value>
+    <value>273, 149</value>
   </data>
   <data name="ucrChkMargin.Size" type="System.Drawing.Size, System.Drawing">
     <value>100, 20</value>
   </data>
   <data name="ucrChkMargin.TabIndex" type="System.Int32, mscorlib">
-    <value>24</value>
+    <value>6</value>
   </data>
   <data name="&gt;&gt;ucrChkMargin.Name" xml:space="preserve">
     <value>ucrChkMargin</value>
@@ -285,7 +306,7 @@
     <value>tbpFacet</value>
   </data>
   <data name="&gt;&gt;ucrChkMargin.ZOrder" xml:space="preserve">
-    <value>7</value>
+    <value>8</value>
   </data>
   <data name="ucrFacetSelector.Location" type="System.Drawing.Point, System.Drawing">
     <value>8, 36</value>
@@ -298,7 +319,7 @@
     <value>210, 180</value>
   </data>
   <data name="ucrFacetSelector.TabIndex" type="System.Int32, mscorlib">
-    <value>20</value>
+    <value>1</value>
   </data>
   <data name="&gt;&gt;ucrFacetSelector.Name" xml:space="preserve">
     <value>ucrFacetSelector</value>
@@ -310,7 +331,7 @@
     <value>tbpFacet</value>
   </data>
   <data name="&gt;&gt;ucrFacetSelector.ZOrder" xml:space="preserve">
-    <value>8</value>
+    <value>9</value>
   </data>
   <data name="rdoHorizontal.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -325,7 +346,7 @@
     <value>72, 17</value>
   </data>
   <data name="rdoHorizontal.TabIndex" type="System.Int32, mscorlib">
-    <value>7</value>
+    <value>12</value>
   </data>
   <data name="rdoHorizontal.Text" xml:space="preserve">
     <value>Horizontal</value>
@@ -340,7 +361,7 @@
     <value>tbpFacet</value>
   </data>
   <data name="&gt;&gt;rdoHorizontal.ZOrder" xml:space="preserve">
-    <value>9</value>
+    <value>10</value>
   </data>
   <data name="rdoVertical.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -355,7 +376,7 @@
     <value>60, 17</value>
   </data>
   <data name="rdoVertical.TabIndex" type="System.Int32, mscorlib">
-    <value>6</value>
+    <value>13</value>
   </data>
   <data name="rdoVertical.Text" xml:space="preserve">
     <value>Vertical</value>
@@ -370,7 +391,7 @@
     <value>tbpFacet</value>
   </data>
   <data name="&gt;&gt;rdoVertical.ZOrder" xml:space="preserve">
-    <value>10</value>
+    <value>11</value>
   </data>
   <data name="lblFactor2.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -379,7 +400,7 @@
     <value>NoControl</value>
   </data>
   <data name="lblFactor2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>274, 133</value>
+    <value>274, 99</value>
   </data>
   <data name="lblFactor2.Size" type="System.Drawing.Size, System.Drawing">
     <value>109, 13</value>
@@ -400,7 +421,7 @@
     <value>tbpFacet</value>
   </data>
   <data name="&gt;&gt;lblFactor2.ZOrder" xml:space="preserve">
-    <value>11</value>
+    <value>12</value>
   </data>
   <data name="lblFactor1.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -409,13 +430,13 @@
     <value>NoControl</value>
   </data>
   <data name="lblFactor1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>272, 78</value>
+    <value>272, 44</value>
   </data>
   <data name="lblFactor1.Size" type="System.Drawing.Size, System.Drawing">
     <value>57, 13</value>
   </data>
   <data name="lblFactor1.TabIndex" type="System.Int32, mscorlib">
-    <value>3</value>
+    <value>2</value>
   </data>
   <data name="lblFactor1.Text" xml:space="preserve">
     <value>1st Factor:</value>
@@ -430,10 +451,10 @@
     <value>tbpFacet</value>
   </data>
   <data name="&gt;&gt;lblFactor1.ZOrder" xml:space="preserve">
-    <value>12</value>
+    <value>13</value>
   </data>
   <data name="ucr2ndFactorReceiver.Location" type="System.Drawing.Point, System.Drawing">
-    <value>273, 148</value>
+    <value>273, 114</value>
   </data>
   <data name="ucr2ndFactorReceiver.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>0, 0, 0, 0</value>
@@ -442,7 +463,7 @@
     <value>106, 26</value>
   </data>
   <data name="ucr2ndFactorReceiver.TabIndex" type="System.Int32, mscorlib">
-    <value>2</value>
+    <value>5</value>
   </data>
   <data name="&gt;&gt;ucr2ndFactorReceiver.Name" xml:space="preserve">
     <value>ucr2ndFactorReceiver</value>
@@ -454,10 +475,10 @@
     <value>tbpFacet</value>
   </data>
   <data name="&gt;&gt;ucr2ndFactorReceiver.ZOrder" xml:space="preserve">
-    <value>13</value>
+    <value>14</value>
   </data>
   <data name="ucr1stFactorReceiver.Location" type="System.Drawing.Point, System.Drawing">
-    <value>273, 93</value>
+    <value>273, 59</value>
   </data>
   <data name="ucr1stFactorReceiver.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>0, 0, 0, 0</value>
@@ -466,7 +487,7 @@
     <value>106, 26</value>
   </data>
   <data name="ucr1stFactorReceiver.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
+    <value>3</value>
   </data>
   <data name="&gt;&gt;ucr1stFactorReceiver.Name" xml:space="preserve">
     <value>ucr1stFactorReceiver</value>
@@ -478,7 +499,7 @@
     <value>tbpFacet</value>
   </data>
   <data name="&gt;&gt;ucr1stFactorReceiver.ZOrder" xml:space="preserve">
-    <value>14</value>
+    <value>15</value>
   </data>
   <data name="ucrPnlHorizonatalVertical.Location" type="System.Drawing.Point, System.Drawing">
     <value>8, 228</value>
@@ -499,7 +520,7 @@
     <value>tbpFacet</value>
   </data>
   <data name="&gt;&gt;ucrPnlHorizonatalVertical.ZOrder" xml:space="preserve">
-    <value>15</value>
+    <value>16</value>
   </data>
   <data name="tbpFacet.Location" type="System.Drawing.Point, System.Drawing">
     <value>4, 22</value>
@@ -508,7 +529,7 @@
     <value>3, 3, 3, 3</value>
   </data>
   <data name="tbpFacet.Size" type="System.Drawing.Size, System.Drawing">
-    <value>499, 330</value>
+    <value>499, 423</value>
   </data>
   <data name="tbpFacet.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
@@ -556,7 +577,7 @@
     <value>3, 3, 3, 3</value>
   </data>
   <data name="tbpLayers.Size" type="System.Drawing.Size, System.Drawing">
-    <value>499, 330</value>
+    <value>499, 423</value>
   </data>
   <data name="tbpLayers.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
@@ -907,7 +928,7 @@
     <value>3, 3, 3, 3</value>
   </data>
   <data name="tbpTitles.Size" type="System.Drawing.Size, System.Drawing">
-    <value>499, 330</value>
+    <value>499, 423</value>
   </data>
   <data name="tbpTitles.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -955,7 +976,7 @@
     <value>3, 3, 3, 3</value>
   </data>
   <data name="tbpXAxis.Size" type="System.Drawing.Size, System.Drawing">
-    <value>499, 330</value>
+    <value>499, 423</value>
   </data>
   <data name="tbpXAxis.TabIndex" type="System.Int32, mscorlib">
     <value>5</value>
@@ -1003,7 +1024,7 @@
     <value>3, 3, 3, 3</value>
   </data>
   <data name="tbpYAxis.Size" type="System.Drawing.Size, System.Drawing">
-    <value>499, 330</value>
+    <value>499, 423</value>
   </data>
   <data name="tbpYAxis.TabIndex" type="System.Int32, mscorlib">
     <value>6</value>
@@ -1429,7 +1450,7 @@
     <value>3, 3, 3, 3</value>
   </data>
   <data name="tbpTheme.Size" type="System.Drawing.Size, System.Drawing">
-    <value>499, 330</value>
+    <value>499, 423</value>
   </data>
   <data name="tbpTheme.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -1693,7 +1714,7 @@
     <value>3, 3, 3, 3</value>
   </data>
   <data name="tbpCoordinates.Size" type="System.Drawing.Size, System.Drawing">
-    <value>499, 330</value>
+    <value>499, 423</value>
   </data>
   <data name="tbpCoordinates.TabIndex" type="System.Int32, mscorlib">
     <value>7</value>
@@ -1713,11 +1734,617 @@
   <data name="&gt;&gt;tbpCoordinates.ZOrder" xml:space="preserve">
     <value>6</value>
   </data>
+  <data name="ucrChkAddColour.Location" type="System.Drawing.Point, System.Drawing">
+    <value>23, 210</value>
+  </data>
+  <data name="ucrChkAddColour.Size" type="System.Drawing.Size, System.Drawing">
+    <value>243, 20</value>
+  </data>
+  <data name="ucrChkAddColour.TabIndex" type="System.Int32, mscorlib">
+    <value>27</value>
+  </data>
+  <data name="&gt;&gt;ucrChkAddColour.Name" xml:space="preserve">
+    <value>ucrChkAddColour</value>
+  </data>
+  <data name="&gt;&gt;ucrChkAddColour.Type" xml:space="preserve">
+    <value>instat.ucrCheck, instat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;ucrChkAddColour.Parent" xml:space="preserve">
+    <value>tbpColour</value>
+  </data>
+  <data name="&gt;&gt;ucrChkAddColour.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="ucrChkAddFillScale.Location" type="System.Drawing.Point, System.Drawing">
+    <value>23, 6</value>
+  </data>
+  <data name="ucrChkAddFillScale.Size" type="System.Drawing.Size, System.Drawing">
+    <value>243, 20</value>
+  </data>
+  <data name="ucrChkAddFillScale.TabIndex" type="System.Int32, mscorlib">
+    <value>26</value>
+  </data>
+  <data name="&gt;&gt;ucrChkAddFillScale.Name" xml:space="preserve">
+    <value>ucrChkAddFillScale</value>
+  </data>
+  <data name="&gt;&gt;ucrChkAddFillScale.Type" xml:space="preserve">
+    <value>instat.ucrCheck, instat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;ucrChkAddFillScale.Parent" xml:space="preserve">
+    <value>tbpColour</value>
+  </data>
+  <data name="&gt;&gt;ucrChkAddFillScale.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="ucrChkColourDiscrete.Location" type="System.Drawing.Point, System.Drawing">
+    <value>7, 125</value>
+  </data>
+  <data name="ucrChkColourDiscrete.Size" type="System.Drawing.Size, System.Drawing">
+    <value>246, 20</value>
+  </data>
+  <data name="ucrChkColourDiscrete.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="&gt;&gt;ucrChkColourDiscrete.Name" xml:space="preserve">
+    <value>ucrChkColourDiscrete</value>
+  </data>
+  <data name="&gt;&gt;ucrChkColourDiscrete.Type" xml:space="preserve">
+    <value>instat.ucrCheck, instat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;ucrChkColourDiscrete.Parent" xml:space="preserve">
+    <value>grpColourScale</value>
+  </data>
+  <data name="&gt;&gt;ucrChkColourDiscrete.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="ucrNudColourScaleTransparency.Location" type="System.Drawing.Point, System.Drawing">
+    <value>222, 45</value>
+  </data>
+  <data name="ucrNudColourScaleTransparency.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 20</value>
+  </data>
+  <data name="ucrNudColourScaleTransparency.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;ucrNudColourScaleTransparency.Name" xml:space="preserve">
+    <value>ucrNudColourScaleTransparency</value>
+  </data>
+  <data name="&gt;&gt;ucrNudColourScaleTransparency.Type" xml:space="preserve">
+    <value>instat.ucrNud, instat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;ucrNudColourScaleTransparency.Parent" xml:space="preserve">
+    <value>grpColourScale</value>
+  </data>
+  <data name="&gt;&gt;ucrNudColourScaleTransparency.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="ucrInputColourScalePalette.Location" type="System.Drawing.Point, System.Drawing">
+    <value>222, 19</value>
+  </data>
+  <data name="ucrInputColourScalePalette.Size" type="System.Drawing.Size, System.Drawing">
+    <value>137, 21</value>
+  </data>
+  <data name="ucrInputColourScalePalette.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;ucrInputColourScalePalette.Name" xml:space="preserve">
+    <value>ucrInputColourScalePalette</value>
+  </data>
+  <data name="&gt;&gt;ucrInputColourScalePalette.Type" xml:space="preserve">
+    <value>instat.ucrInputComboBox, instat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;ucrInputColourScalePalette.Parent" xml:space="preserve">
+    <value>grpColourScale</value>
+  </data>
+  <data name="&gt;&gt;ucrInputColourScalePalette.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="ucrNudColourScaleMapEnds.Location" type="System.Drawing.Point, System.Drawing">
+    <value>222, 97</value>
+  </data>
+  <data name="ucrNudColourScaleMapEnds.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 20</value>
+  </data>
+  <data name="ucrNudColourScaleMapEnds.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;ucrNudColourScaleMapEnds.Name" xml:space="preserve">
+    <value>ucrNudColourScaleMapEnds</value>
+  </data>
+  <data name="&gt;&gt;ucrNudColourScaleMapEnds.Type" xml:space="preserve">
+    <value>instat.ucrNud, instat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;ucrNudColourScaleMapEnds.Parent" xml:space="preserve">
+    <value>grpColourScale</value>
+  </data>
+  <data name="&gt;&gt;ucrNudColourScaleMapEnds.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="ucrNudColourScaleMapBegins.Location" type="System.Drawing.Point, System.Drawing">
+    <value>222, 71</value>
+  </data>
+  <data name="ucrNudColourScaleMapBegins.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 20</value>
+  </data>
+  <data name="ucrNudColourScaleMapBegins.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;ucrNudColourScaleMapBegins.Name" xml:space="preserve">
+    <value>ucrNudColourScaleMapBegins</value>
+  </data>
+  <data name="&gt;&gt;ucrNudColourScaleMapBegins.Type" xml:space="preserve">
+    <value>instat.ucrNud, instat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;ucrNudColourScaleMapBegins.Parent" xml:space="preserve">
+    <value>grpColourScale</value>
+  </data>
+  <data name="&gt;&gt;ucrNudColourScaleMapBegins.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="ucrChkColourScaleReverseOrder.Location" type="System.Drawing.Point, System.Drawing">
+    <value>7, 145</value>
+  </data>
+  <data name="ucrChkColourScaleReverseOrder.Size" type="System.Drawing.Size, System.Drawing">
+    <value>246, 18</value>
+  </data>
+  <data name="ucrChkColourScaleReverseOrder.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;ucrChkColourScaleReverseOrder.Name" xml:space="preserve">
+    <value>ucrChkColourScaleReverseOrder</value>
+  </data>
+  <data name="&gt;&gt;ucrChkColourScaleReverseOrder.Type" xml:space="preserve">
+    <value>instat.ucrCheck, instat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;ucrChkColourScaleReverseOrder.Parent" xml:space="preserve">
+    <value>grpColourScale</value>
+  </data>
+  <data name="&gt;&gt;ucrChkColourScaleReverseOrder.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="lblColourScaleMapEnds.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblColourScaleMapEnds.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblColourScaleMapEnds.Location" type="System.Drawing.Point, System.Drawing">
+    <value>7, 100</value>
+  </data>
+  <data name="lblColourScaleMapEnds.Size" type="System.Drawing.Size, System.Drawing">
+    <value>198, 13</value>
+  </data>
+  <data name="lblColourScaleMapEnds.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="lblColourScaleMapEnds.Text" xml:space="preserve">
+    <value>Corrected Hue Where Colour Map Ends:</value>
+  </data>
+  <data name="&gt;&gt;lblColourScaleMapEnds.Name" xml:space="preserve">
+    <value>lblColourScaleMapEnds</value>
+  </data>
+  <data name="&gt;&gt;lblColourScaleMapEnds.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblColourScaleMapEnds.Parent" xml:space="preserve">
+    <value>grpColourScale</value>
+  </data>
+  <data name="&gt;&gt;lblColourScaleMapEnds.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="lblColourScaleMapBegins.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblColourScaleMapBegins.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblColourScaleMapBegins.Location" type="System.Drawing.Point, System.Drawing">
+    <value>7, 75</value>
+  </data>
+  <data name="lblColourScaleMapBegins.Size" type="System.Drawing.Size, System.Drawing">
+    <value>206, 13</value>
+  </data>
+  <data name="lblColourScaleMapBegins.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="lblColourScaleMapBegins.Text" xml:space="preserve">
+    <value>Corrected Hue Where Colour Map Begins:</value>
+  </data>
+  <data name="&gt;&gt;lblColourScaleMapBegins.Name" xml:space="preserve">
+    <value>lblColourScaleMapBegins</value>
+  </data>
+  <data name="&gt;&gt;lblColourScaleMapBegins.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblColourScaleMapBegins.Parent" xml:space="preserve">
+    <value>grpColourScale</value>
+  </data>
+  <data name="&gt;&gt;lblColourScaleMapBegins.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="lblColourScalePalette.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblColourScalePalette.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblColourScalePalette.Location" type="System.Drawing.Point, System.Drawing">
+    <value>7, 25</value>
+  </data>
+  <data name="lblColourScalePalette.Size" type="System.Drawing.Size, System.Drawing">
+    <value>76, 13</value>
+  </data>
+  <data name="lblColourScalePalette.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="lblColourScalePalette.Text" xml:space="preserve">
+    <value>Colour Palette:</value>
+  </data>
+  <data name="&gt;&gt;lblColourScalePalette.Name" xml:space="preserve">
+    <value>lblColourScalePalette</value>
+  </data>
+  <data name="&gt;&gt;lblColourScalePalette.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblColourScalePalette.Parent" xml:space="preserve">
+    <value>grpColourScale</value>
+  </data>
+  <data name="&gt;&gt;lblColourScalePalette.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="lblColourScaleTransparency.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblColourScaleTransparency.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblColourScaleTransparency.Location" type="System.Drawing.Point, System.Drawing">
+    <value>7, 50</value>
+  </data>
+  <data name="lblColourScaleTransparency.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 13</value>
+  </data>
+  <data name="lblColourScaleTransparency.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="lblColourScaleTransparency.Text" xml:space="preserve">
+    <value>Transparency:</value>
+  </data>
+  <data name="&gt;&gt;lblColourScaleTransparency.Name" xml:space="preserve">
+    <value>lblColourScaleTransparency</value>
+  </data>
+  <data name="&gt;&gt;lblColourScaleTransparency.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblColourScaleTransparency.Parent" xml:space="preserve">
+    <value>grpColourScale</value>
+  </data>
+  <data name="&gt;&gt;lblColourScaleTransparency.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="grpColourScale.Location" type="System.Drawing.Point, System.Drawing">
+    <value>13, 236</value>
+  </data>
+  <data name="grpColourScale.Size" type="System.Drawing.Size, System.Drawing">
+    <value>390, 171</value>
+  </data>
+  <data name="grpColourScale.TabIndex" type="System.Int32, mscorlib">
+    <value>25</value>
+  </data>
+  <data name="grpColourScale.Text" xml:space="preserve">
+    <value>Colour Scale</value>
+  </data>
+  <data name="&gt;&gt;grpColourScale.Name" xml:space="preserve">
+    <value>grpColourScale</value>
+  </data>
+  <data name="&gt;&gt;grpColourScale.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;grpColourScale.Parent" xml:space="preserve">
+    <value>tbpColour</value>
+  </data>
+  <data name="&gt;&gt;grpColourScale.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="ucrChkFillDiscrete.Location" type="System.Drawing.Point, System.Drawing">
+    <value>7, 119</value>
+  </data>
+  <data name="ucrChkFillDiscrete.Size" type="System.Drawing.Size, System.Drawing">
+    <value>299, 20</value>
+  </data>
+  <data name="ucrChkFillDiscrete.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;ucrChkFillDiscrete.Name" xml:space="preserve">
+    <value>ucrChkFillDiscrete</value>
+  </data>
+  <data name="&gt;&gt;ucrChkFillDiscrete.Type" xml:space="preserve">
+    <value>instat.ucrCheck, instat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;ucrChkFillDiscrete.Parent" xml:space="preserve">
+    <value>grpFillScale</value>
+  </data>
+  <data name="&gt;&gt;ucrChkFillDiscrete.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="ucrNudFillScaleTransparency.Location" type="System.Drawing.Point, System.Drawing">
+    <value>222, 42</value>
+  </data>
+  <data name="ucrNudFillScaleTransparency.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 21</value>
+  </data>
+  <data name="ucrNudFillScaleTransparency.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;ucrNudFillScaleTransparency.Name" xml:space="preserve">
+    <value>ucrNudFillScaleTransparency</value>
+  </data>
+  <data name="&gt;&gt;ucrNudFillScaleTransparency.Type" xml:space="preserve">
+    <value>instat.ucrNud, instat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;ucrNudFillScaleTransparency.Parent" xml:space="preserve">
+    <value>grpFillScale</value>
+  </data>
+  <data name="&gt;&gt;ucrNudFillScaleTransparency.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="ucrNudFillScaleMapEnds.Location" type="System.Drawing.Point, System.Drawing">
+    <value>222, 94</value>
+  </data>
+  <data name="ucrNudFillScaleMapEnds.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 22</value>
+  </data>
+  <data name="ucrNudFillScaleMapEnds.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;ucrNudFillScaleMapEnds.Name" xml:space="preserve">
+    <value>ucrNudFillScaleMapEnds</value>
+  </data>
+  <data name="&gt;&gt;ucrNudFillScaleMapEnds.Type" xml:space="preserve">
+    <value>instat.ucrNud, instat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;ucrNudFillScaleMapEnds.Parent" xml:space="preserve">
+    <value>grpFillScale</value>
+  </data>
+  <data name="&gt;&gt;ucrNudFillScaleMapEnds.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="ucrNudFillScaleMapBegins.Location" type="System.Drawing.Point, System.Drawing">
+    <value>222, 68</value>
+  </data>
+  <data name="ucrNudFillScaleMapBegins.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 27</value>
+  </data>
+  <data name="ucrNudFillScaleMapBegins.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;ucrNudFillScaleMapBegins.Name" xml:space="preserve">
+    <value>ucrNudFillScaleMapBegins</value>
+  </data>
+  <data name="&gt;&gt;ucrNudFillScaleMapBegins.Type" xml:space="preserve">
+    <value>instat.ucrNud, instat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;ucrNudFillScaleMapBegins.Parent" xml:space="preserve">
+    <value>grpFillScale</value>
+  </data>
+  <data name="&gt;&gt;ucrNudFillScaleMapBegins.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="ucrInputFillScaleColour.Location" type="System.Drawing.Point, System.Drawing">
+    <value>222, 16</value>
+  </data>
+  <data name="ucrInputFillScaleColour.Size" type="System.Drawing.Size, System.Drawing">
+    <value>137, 24</value>
+  </data>
+  <data name="ucrInputFillScaleColour.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;ucrInputFillScaleColour.Name" xml:space="preserve">
+    <value>ucrInputFillScaleColour</value>
+  </data>
+  <data name="&gt;&gt;ucrInputFillScaleColour.Type" xml:space="preserve">
+    <value>instat.ucrInputComboBox, instat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;ucrInputFillScaleColour.Parent" xml:space="preserve">
+    <value>grpFillScale</value>
+  </data>
+  <data name="&gt;&gt;ucrInputFillScaleColour.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="ucrChkFillScaleReverseColourOrder.Location" type="System.Drawing.Point, System.Drawing">
+    <value>7, 139</value>
+  </data>
+  <data name="ucrChkFillScaleReverseColourOrder.Size" type="System.Drawing.Size, System.Drawing">
+    <value>222, 20</value>
+  </data>
+  <data name="ucrChkFillScaleReverseColourOrder.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;ucrChkFillScaleReverseColourOrder.Name" xml:space="preserve">
+    <value>ucrChkFillScaleReverseColourOrder</value>
+  </data>
+  <data name="&gt;&gt;ucrChkFillScaleReverseColourOrder.Type" xml:space="preserve">
+    <value>instat.ucrCheck, instat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;ucrChkFillScaleReverseColourOrder.Parent" xml:space="preserve">
+    <value>grpFillScale</value>
+  </data>
+  <data name="&gt;&gt;ucrChkFillScaleReverseColourOrder.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="lblFillScaleMapEnds.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblFillScaleMapEnds.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblFillScaleMapEnds.Location" type="System.Drawing.Point, System.Drawing">
+    <value>7, 98</value>
+  </data>
+  <data name="lblFillScaleMapEnds.Size" type="System.Drawing.Size, System.Drawing">
+    <value>198, 13</value>
+  </data>
+  <data name="lblFillScaleMapEnds.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="lblFillScaleMapEnds.Text" xml:space="preserve">
+    <value>Corrected Hue Where Colour Map Ends:</value>
+  </data>
+  <data name="&gt;&gt;lblFillScaleMapEnds.Name" xml:space="preserve">
+    <value>lblFillScaleMapEnds</value>
+  </data>
+  <data name="&gt;&gt;lblFillScaleMapEnds.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblFillScaleMapEnds.Parent" xml:space="preserve">
+    <value>grpFillScale</value>
+  </data>
+  <data name="&gt;&gt;lblFillScaleMapEnds.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="lblFillScaleBeginColour.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblFillScaleBeginColour.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblFillScaleBeginColour.Location" type="System.Drawing.Point, System.Drawing">
+    <value>7, 73</value>
+  </data>
+  <data name="lblFillScaleBeginColour.Size" type="System.Drawing.Size, System.Drawing">
+    <value>206, 13</value>
+  </data>
+  <data name="lblFillScaleBeginColour.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="lblFillScaleBeginColour.Text" xml:space="preserve">
+    <value>Corrected Hue Where Colour Map Begins:</value>
+  </data>
+  <data name="&gt;&gt;lblFillScaleBeginColour.Name" xml:space="preserve">
+    <value>lblFillScaleBeginColour</value>
+  </data>
+  <data name="&gt;&gt;lblFillScaleBeginColour.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblFillScaleBeginColour.Parent" xml:space="preserve">
+    <value>grpFillScale</value>
+  </data>
+  <data name="&gt;&gt;lblFillScaleBeginColour.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="lblFillScaleColourPalettte.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblFillScaleColourPalettte.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblFillScaleColourPalettte.Location" type="System.Drawing.Point, System.Drawing">
+    <value>7, 23</value>
+  </data>
+  <data name="lblFillScaleColourPalettte.Size" type="System.Drawing.Size, System.Drawing">
+    <value>76, 13</value>
+  </data>
+  <data name="lblFillScaleColourPalettte.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="lblFillScaleColourPalettte.Text" xml:space="preserve">
+    <value>Colour Palette:</value>
+  </data>
+  <data name="&gt;&gt;lblFillScaleColourPalettte.Name" xml:space="preserve">
+    <value>lblFillScaleColourPalettte</value>
+  </data>
+  <data name="&gt;&gt;lblFillScaleColourPalettte.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblFillScaleColourPalettte.Parent" xml:space="preserve">
+    <value>grpFillScale</value>
+  </data>
+  <data name="&gt;&gt;lblFillScaleColourPalettte.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="lblFillScaleTransparency.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblFillScaleTransparency.Location" type="System.Drawing.Point, System.Drawing">
+    <value>7, 48</value>
+  </data>
+  <data name="lblFillScaleTransparency.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 13</value>
+  </data>
+  <data name="lblFillScaleTransparency.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="lblFillScaleTransparency.Text" xml:space="preserve">
+    <value>Transparency:</value>
+  </data>
+  <data name="&gt;&gt;lblFillScaleTransparency.Name" xml:space="preserve">
+    <value>lblFillScaleTransparency</value>
+  </data>
+  <data name="&gt;&gt;lblFillScaleTransparency.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblFillScaleTransparency.Parent" xml:space="preserve">
+    <value>grpFillScale</value>
+  </data>
+  <data name="&gt;&gt;lblFillScaleTransparency.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="grpFillScale.Location" type="System.Drawing.Point, System.Drawing">
+    <value>13, 30</value>
+  </data>
+  <data name="grpFillScale.Size" type="System.Drawing.Size, System.Drawing">
+    <value>388, 163</value>
+  </data>
+  <data name="grpFillScale.TabIndex" type="System.Int32, mscorlib">
+    <value>23</value>
+  </data>
+  <data name="grpFillScale.Text" xml:space="preserve">
+    <value>Fill Scale</value>
+  </data>
+  <data name="&gt;&gt;grpFillScale.Name" xml:space="preserve">
+    <value>grpFillScale</value>
+  </data>
+  <data name="&gt;&gt;grpFillScale.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;grpFillScale.Parent" xml:space="preserve">
+    <value>tbpColour</value>
+  </data>
+  <data name="&gt;&gt;grpFillScale.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="tbpColour.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 22</value>
+  </data>
+  <data name="tbpColour.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="tbpColour.Size" type="System.Drawing.Size, System.Drawing">
+    <value>499, 423</value>
+  </data>
+  <data name="tbpColour.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="tbpColour.Text" xml:space="preserve">
+    <value>Colour</value>
+  </data>
+  <data name="&gt;&gt;tbpColour.Name" xml:space="preserve">
+    <value>tbpColour</value>
+  </data>
+  <data name="&gt;&gt;tbpColour.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tbpColour.Parent" xml:space="preserve">
+    <value>tbpPlotsOptions</value>
+  </data>
+  <data name="&gt;&gt;tbpColour.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
   <data name="tbpPlotsOptions.Location" type="System.Drawing.Point, System.Drawing">
     <value>1, 3</value>
   </data>
   <data name="tbpPlotsOptions.Size" type="System.Drawing.Size, System.Drawing">
-    <value>507, 356</value>
+    <value>507, 449</value>
   </data>
   <data name="tbpPlotsOptions.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -1735,10 +2362,10 @@
     <value>1</value>
   </data>
   <data name="ucrBaseSubdialog.Location" type="System.Drawing.Point, System.Drawing">
-    <value>164, 365</value>
+    <value>164, 458</value>
   </data>
   <data name="ucrBaseSubdialog.Size" type="System.Drawing.Size, System.Drawing">
-    <value>160, 41</value>
+    <value>160, 28</value>
   </data>
   <data name="ucrBaseSubdialog.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -1762,7 +2389,7 @@
     <value>6, 13</value>
   </data>
   <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
-    <value>517, 399</value>
+    <value>517, 502</value>
   </data>
   <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
     <value>CenterParent</value>
